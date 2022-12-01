@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pasteleria_API", "Pasteleria_API\Pasteleria_API.csproj", "{0FA8CF2B-892F-49E5-945A-9E417FA81051}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FA8CF2B-892F-49E5-945A-9E417FA81051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FA8CF2B-892F-49E5-945A-9E417FA81051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FA8CF2B-892F-49E5-945A-9E417FA81051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FA8CF2B-892F-49E5-945A-9E417FA81051}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFD1AED3-57B8-4821-AD5C-5226D927F50F}
+	EndGlobalSection
+EndGlobal
